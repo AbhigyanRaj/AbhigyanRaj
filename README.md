@@ -14,7 +14,7 @@ Hey there! I'm Abhigyan, the web wizard in the making. Currently, I'm all about 
 
 [![insta logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3d9e3fe7-153f-46d1-bb0d-b53da5d1906c)](https://instagram.com/abhigyann.)
 [![linkedin](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/e8275da3-efee-4f25-9847-2a8342ff3022)](https://linkedin.com/in/AbhigyanRaj)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Abhigyann)
+[![YouTube](https://github.com/AbhigyanRaj/AbhigyanRaj/blob/main/simplified-background-remover.png?raw=true)](https://youtube.com/@Abhigyann)
 
 
 
