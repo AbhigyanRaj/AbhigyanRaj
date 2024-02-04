@@ -1,7 +1,7 @@
 
 <H1><center><b><i><u> HELLO I'M ABHIGYANN  </u></i></b></center></H1>
 
-![Photo main](https://github.com/AbhigyanRaj/AbhigyanRaj/blob/main/cat.png?raw=true)
+![Photo main](https://github.com/AbhigyanRaj/AbhigyanRaj/blob/main/Snapseed.png?raw=true)
 
 ***
 
