@@ -1,7 +1,7 @@
 
 <H1><center><b><i><u> HELLO I'M ABHIGYANN  </u></i></b></center></H1>
 
-![Photo main](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/b4d80a81-4c39-4e6b-b0ec-027cae0b289b)
+![Photo main](https://github.com/AbhigyanRaj/AbhigyanRaj/blob/main/cat.png?raw=true)
 
 ***
 
