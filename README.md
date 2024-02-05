@@ -16,6 +16,8 @@ Hey there! I'm Abhigyan, the web wizard in the making. Currently, I'm all about 
   <a href="https://www.linkedin.com/in/abhigyan-raj-6211502a1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyan raj" height="60" width="70" /></a>
   
   <a href="https://www.youtube.com/channel/UCCLxyDhQFj0ditTtLe9BlUA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhigyann" height="60" width="70" /></a>
+
+  <a href="https://www.hackerrank.com/abhigyan23018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhigyan23018" height="60" width="70" /></a>
 </p>
 
 
