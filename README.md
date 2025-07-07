@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- 💡 Developer from India  
-- 🎓 **B.Tech in ECE @ IIIT Delhi (2023–2027)**  
+- 💡 **Developer from India** 
+- 🎓 **B.Tech @ IIIT Delhi**  
 - 💻 Focused on building **scalable**, **AI-integrated**, and **cloud-native** apps  
 - 🎬 Filmmaker & creator with storytelling experience  
 - 🏸 National-level Badminton player
