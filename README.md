@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 💡 Developer from **Bihar Sharif, India**  
+- 💡 Developer from India**  
 - 🎓 **B.Tech in ECE @ IIIT Delhi (2023–2027)**  
 - 💻 Focused on building **scalable**, **AI-integrated**, and **cloud-native** apps  
 - 🎬 Filmmaker & creator with storytelling experience  
