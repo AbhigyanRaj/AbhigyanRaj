@@ -12,17 +12,17 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 💡 **Developer from India** 
-- 🎓 **B.Tech @ IIIT Delhi**  
-- 💻 Focused on building **scalable**, **AI-integrated**, and **cloud-native** apps  
-- 🎬 Filmmaker & creator with storytelling experience  
-- 🏸 National-level Badminton player
+- **Developer from India** 
+-  **B.Tech @ IIIT Delhi**  
+- Focused on building **scalable**, **AI-integrated**, and **cloud-native** apps  
+- Filmmaker & creator with storytelling experience  
+- National-level Badminton player
 
 ---
 
-## 💼 Technical Skills
+##  Technical Skills
 
 ### Languages  
 C • C++ • Python • Java • JavaScript • TypeScript • HTML • CSS
@@ -42,7 +42,7 @@ OpenCV • YOLOv3 • Real-time Systems • AI Chatbots
 
 ---
 
-## 📈 GitHub Performance
+##  GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhigyanRaj&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -53,10 +53,10 @@ OpenCV • YOLOv3 • Real-time Systems • AI Chatbots
 
 ## 🎬 Media & Interests
 
-- 🎥 [YouTube: @Abhigyann_](https://www.youtube.com/@Abhigyann_) – Film, content, storytelling  
-- 🎸 Musician – Guitarist & Vocalist  
-- 🏸 Badminton – Played at national level tournaments  
-- 📝 Content strategist for campus-wide tech initiatives
+-  [YouTube: @Abhigyann_](https://www.youtube.com/@Abhigyann_) – Film, content, storytelling  
+-  Musician – Guitarist & Vocalist  
+-  Badminton – Played at national level tournaments  
+-  Content strategist for campus-wide tech initiatives
 
 ---
 
