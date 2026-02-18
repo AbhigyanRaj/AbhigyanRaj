@@ -51,7 +51,7 @@ OpenCV • YOLOv3 • Real-time Systems • AI Chatbots
 
 ---
 
-## 🎬 Media & Interests
+##  Media & Interests
 
 -  [YouTube: @Abhigyann_](https://www.youtube.com/@Abhigyann_) – Film, content, storytelling  
 -  Musician – Guitarist & Vocalist  
@@ -60,7 +60,7 @@ OpenCV • YOLOv3 • Real-time Systems • AI Chatbots
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:Abhigyan23018@iiitd.ac.in">
