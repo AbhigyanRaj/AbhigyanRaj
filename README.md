@@ -50,16 +50,5 @@ const abhigyan = {
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhigyanRaj&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhigyanRaj&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
 
----
 
-<p>
-  <a href="mailto:abhigyan23018@iiitd.ac.in">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abhigyan-raj-6211502a1/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://abhigyanraj.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://wuup.in">Wuup</a>
-</p>
