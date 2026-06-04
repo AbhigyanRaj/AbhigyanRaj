@@ -1,84 +1,65 @@
-<!-- Hero Section -->
-<h1 align="center">Abhigyan Raj</h1>
+<h2>Hey, I'm Abhigyan Raj</h2>
+<img align='right' src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif" width="200">
 
-<p align="center">
-  Full-stack Developer · Creative Technologist · AI Enthusiast  
-  B.Tech @ IIIT Delhi | Passionate about Web, Cloud & Vision Systems
-</p>
+<p><em>Full-stack & AI Engineer &nbsp;|&nbsp; Student at IIIT Delhi</em></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=650&lines=Crafting+products+with+React%2C+Cloud+%26+AI;Simplifying+code+%7C+Maximizing+impact;Exploring+the+intersection+of+tech+and+design" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-Abhigyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhigyan-raj-6211502a1/)](https://www.linkedin.com/in/abhigyan-raj-6211502a1/)
+[![GitHub Follow](https://img.shields.io/github/followers/AbhigyanRaj?label=follow&style=social)](https://github.com/AbhigyanRaj)
 
 ---
 
-##  About Me
+### A little more about me...
 
-- **Developer from India** 
--  **B.Tech @ IIIT Delhi**  
-- Focused on building **scalable**, **AI-integrated**, and **cloud-native** apps  
-- Filmmaker & creator with storytelling experience  
-- National-level Badminton player
+```typescript
+const abhigyan = {
+    code: ["TypeScript", "Python", "JavaScript", "C++", "HTML", "CSS"],
 
----
+    tools: [
+        "React", "Next.js", "Node.js", "Express", "FastAPI",
+        "Tailwind CSS", "Framer Motion", "React Native", "Prisma"
+    ],
 
-##  Technical Skills
+    databases: [
+        "PostgreSQL", "MongoDB", "Redis",
+        "Qdrant", "Atlas Vector Search"
+    ],
 
-### Languages  
-C • C++ • Python • Java • JavaScript • TypeScript • HTML • CSS
+    ai: [
+        "RAG Pipelines", "LLM Agents", "Function Calling",
+        "Agentic Workflows", "Vector Search", "Prompt Engineering",
+        "Google Gemini", "Groq", "OpenAI", "Bolna AI (YC F25)"
+    ],
 
-### Frontend  
-React.js • Next.js • Tailwind CSS • Redux • GSAP • Figma
+    experience: [
+        "AI Engineer @ Stremly, Dublin — agentic RAG, MCP integrations, sub-2s latency",
+        "SDE Intern @ Instafix, Gurugram — sole engineer, shipped field ops app in 6 weeks",
+        "Full Stack Dev @ Foodoscope CoSyLab, IIIT Delhi",
+    ],
 
-### Backend & Cloud  
-Firebase • GCP • API Development • OAuth • Webhooks
+    shipping: [
+        "Wuup       — query live DBs (MongoDB, PostgreSQL, Sheets) in natural language",
+        "Voicely    — STT→LLM→TTS pipeline at <1.5s latency, BYOK developer API",
+        "Wuup Hire  — AI voice interviewing platform, auto-evaluates candidates",
+    ],
 
-### AI / CV  
-OpenCV • YOLOv3 • Real-time Systems • AI Chatbots
+    interests: ["voice AI", "full-stack", "agentic systems", "developer tooling", "film", "badminton"],
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,py,cpp,java,firebase,gcp,redux,opencv,figma" />
-</p>
+    challenge: "building the infrastructure layer for AI products that actually ship to production",
+}
+```
 
----
+<br/>
 
-##  GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhigyanRaj&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhigyanRaj&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-##  Media & Interests
-
--  [YouTube: @Abhigyann_](https://www.youtube.com/@Abhigyann_) – Film, content, storytelling  
--  Musician – Guitarist & Vocalist  
--  Badminton – Played at national level tournaments  
--  Content strategist for campus-wide tech initiatives
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="mailto:Abhigyan23018@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhigyan-raj-6211502a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AbhigyanRaj">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.youtube.com/@Abhigyann_">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhigyanRaj&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhigyanRaj&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer"/>
+<p>
+  <a href="mailto:abhigyan23018@iiitd.ac.in">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abhigyan-raj-6211502a1/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://abhigyanraj.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://wuup.in">Wuup</a>
 </p>
